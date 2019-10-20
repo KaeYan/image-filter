@@ -1,6 +1,7 @@
 # Udagram Image Filtering Microservice
 
-## Tasks
+### The endpoint to the cloud image filter is here:
+http://image-filter-dev-dev.ap-southeast-1.elasticbeanstalk.com/
 
 ### Setup Node Environment
 
